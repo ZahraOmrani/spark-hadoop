@@ -4,9 +4,6 @@
  <p align="center">
   <img src="https://github.com/ZahraOmrani/spark-hadoop/blob/master/Hadoop.png">
   <b>Hadoop</b>
-   <b></b>
-   <b></b>
-   <b></b>
   <img src="https://github.com/ZahraOmrani/spark-hadoop/blob/master/Spark.png">
   <b>Spark</b>
 </p>
